@@ -1,6 +1,6 @@
 # hello-world
 
-My first repository on GitHub.
+My first repository in GitHub.
 
 Here's a list of things I like using emoticons! 
 
